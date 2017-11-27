@@ -1,0 +1,2 @@
+# utl_sql_operational_order_of_sql_statements
+Operational order of sql statements
